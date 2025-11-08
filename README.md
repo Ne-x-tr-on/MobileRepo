@@ -29,4 +29,4 @@ The **goal** of MobileRepo is to:
 
 Clone this repo:
 ```bash
-git clone https://github.com/<your-username>/MobileRepo.git
+git clone https://github.com/Ne-x-tr-on/MobileRepo.git
